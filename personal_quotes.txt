@@ -1,3 +1,10 @@
 This is my personal quote
 
 This is second quote inside personl
+
+Added this quote from master
+
+Adding third quote from personal
+
+Adding again from master
+
